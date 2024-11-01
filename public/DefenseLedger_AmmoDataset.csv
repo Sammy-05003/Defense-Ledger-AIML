@@ -1,0 +1,5 @@
+OrderID,ZoneID,WeaponType,AmmunitionType,OrderDate,Quantity,DemandFrequency
+1,Z01,Rifle,5.56 NATO,2024-01-01,5000,Weekly
+2,Z02,Pistol,9mm,2024-01-02,3000,Monthly
+3,Z09,Rifle,7.62 NATO,2024-01-01,12000,Daily
+4,Z10,Rifle,7.62 NATO,2024-01-01,15000,Daily
